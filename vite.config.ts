@@ -6,6 +6,5 @@ export default defineConfig({
   build: {
     outDir: 'docs',
   },
-  base: "https://raw.githubusercontent.com/voidviridian/twitch.timer/",
   plugins: [react()],
 })

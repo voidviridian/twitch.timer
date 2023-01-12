@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://voidviridian.github.io/twitch.timer/",
+  base: "https://raw.githubusercontent.com/voidviridian/twitch.timer/",
   plugins: [react()],
 })
